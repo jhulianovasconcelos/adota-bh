@@ -1,0 +1,37 @@
+.pet-register-container {
+    padding: 5rem;
+}
+
+.form-label {
+    margin-right: 2rem;
+}
+
+.petAge > .col-sm-8 {
+    padding-right: 0 !important;
+}
+.petAge > .col-sm-4 {
+    padding-left: 0 !important;
+}
+.submit-btn {
+    margin-top: 2rem;
+    text-align: end;
+}
+.container-change {
+    padding: 5rem;
+    margin: auto;
+}
+.table-container {
+    padding: 5rem;
+}
+.form-change {
+    padding: 5rem;
+    background-color: rgb(243, 243, 243);
+    box-shadow: 0px 0px 5px rgb(197, 197, 197);
+    border-radius: 1rem;
+}
+.petRegistrationForm {
+    position: relative;
+}
+.invalid-tooltip {
+   visibility: visible;
+}
